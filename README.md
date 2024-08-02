@@ -32,3 +32,10 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=Diluzx&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<p align="left"><b>🐍Snake Streak:</b></p>
+<img src="https://github.com/Dev-Yoko/Dev-Yoko/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+
+###
